@@ -76,9 +76,3 @@ Instructions for how to contribute to the project, if applicable.
 
 This project is licensed under the [LICENSE NAME] - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-List any acknowledgments or credits for libraries, algorithms, or resources used in the project.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/23856993/355f5a60-8e78-4992-a49f-e418c26139af/paste.txt
