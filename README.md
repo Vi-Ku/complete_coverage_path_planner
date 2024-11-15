@@ -44,7 +44,7 @@ This repository implements multiple methods used for the path planning in Comple
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/complete_coverage_path_planner.git
+   git clone https://github.com/vi-ku/complete_coverage_path_planner.git
    ```
 
 2. Navigate to the project directory:
